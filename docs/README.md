@@ -1,8 +1,8 @@
 # **FP-Markdown**
 
-Diogo Silva Gonçalves
+Luis Carlos Canelas Ferreira
 
-`2211879`
+`2211882`
 
 ## **Linguagens de programação conhecidas:**
 
